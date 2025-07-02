@@ -1,6 +1,6 @@
 const reader = new FileReader();
 
-const db = 'https://ars-db.onrender.com';
+const db = 'https://ars-db-ecrd.onrender.com';
 
 var periodos = []
 var materias = []
