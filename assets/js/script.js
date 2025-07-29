@@ -120,9 +120,11 @@ function addTableRow() {
             <option value="">Selecione</option>
             <option value="Remoto">Remoto</option>
             <option value="Presencial">Presencial</option>
-            <option value="EAD (Digital)">EAD Digital</option>
+            <option value="EAD (Digital)">EAD Digital</option> 
         </select>
     `;
+
+    //
     
     // Célula Professor
     const cell5 = newRow.insertCell(4);
